@@ -6,7 +6,7 @@
 
 <html lang="id">
 <head>
-    <link rel="stylesheet" href="/A_019_Isa Iman Muhammad_PBO_Prak4/No 2/no2.css">
+    <link rel="stylesheet" href="/A_013_Diah Ayuning Tyas_PBO_Prak4/No 2/no2.css">
     <title>Praktikum 4</title>
 </head>
 <body>
